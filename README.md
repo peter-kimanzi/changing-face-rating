@@ -2,6 +2,8 @@
 
 changing face rating using CSS and JavaScript
 
+# Technologies Used
+
 
 
 
