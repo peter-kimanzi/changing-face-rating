@@ -9,7 +9,7 @@ changing face rating using CSS and JavaScript
 * HTML
 
 # Live Link
-
+https://peter-kimanzi.github.io/changing-face-rating/
 
 # screenshot
 
